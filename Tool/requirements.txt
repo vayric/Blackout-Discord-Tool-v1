@@ -1,0 +1,11 @@
+discord 
+pystyle 
+requests 
+colorama
+discord.py
+asyncio
+discord
+requests
+pystyle
+colorama
+pyautogui
